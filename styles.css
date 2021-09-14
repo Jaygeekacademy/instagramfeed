@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+    
+    }
+    .wrapper {
+        background-color: white;
+        width: 345px;
+        margin: auto;
+        margin-bottom: 40px;
+        
+        }
+    .one {
+        display: flex;
+         margin: 10px;
+         padding-top: 10px;
+         
+        
+    
+    }
+        
+    
+    .three {
+        padding-bottom: 10px;
+        padding-top: 10px;
+        padding-left: 10px;
+        border: 1px solid black;
+        display: flex;
+     
+         }
+    .ribbon {
+
+     margin-left: 230px;
+
+    }
+    
+    p {
+        width: 100%;
+        margin: 10px;
+    }
+   
+.mb {
+
+    margin-bottom: 40px;
+}
